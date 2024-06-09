@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Materials/TestMaterial.mat.meta
 guid: 08ce4c7df42ec7240a1f86b8cf86bc0f
 NativeFormatImporter:
+========
+guid: eddb706bf85e56b4cb96aa060ff1b5fe
+DefaultImporter:
+>>>>>>>> cc8b052f233452a90bd4acad419b70a036da74eb:Assets/Scenes/itzel.unity.meta
   externalObjects: {}
   mainObjectFileID: 2100000
   userData: 
